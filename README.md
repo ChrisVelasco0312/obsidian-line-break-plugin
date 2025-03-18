@@ -1,2 +1,3 @@
-# obsidian-line-break-plugin
-A small plugin for automatically breaking lines when hitting the 80 width character wall.
+## Plugin to break lines
+
+Break lines automatically to compatibility purpose with editors like neovim

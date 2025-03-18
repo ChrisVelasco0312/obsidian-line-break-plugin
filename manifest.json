@@ -1,0 +1,9 @@
+{
+    "id": "line-break-plugin",
+    "name": "Line Break Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Inserts a newline at 80 characters while typing for Git and editor compatibility",
+    "author": "xAI",
+	"isDesktopOnly": false
+}
